@@ -8,9 +8,9 @@
 - [기술 스택](https://carcassi0.github.io/skills/): 기술별 활용 프로젝트
 
 ## 프로젝트
-- [VIEWPOINT](https://carcassi0.github.io/projects/viewpoint/): 국회의원, 법안, 정당과 위원회 정보를 차트와 지도로 탐색하는 웹 서비스입니다. 의정 활동과 표결 데이터를 시각화해 필요한 정보를 쉽게 살펴볼 수 있도록 구성했습니다. 담당 역할: PM, 기획, 프론트엔드 개발. 사용 기술: React, TypeScript, Zustand, D3.js, Figma.
+- [VIEWPOINT](https://carcassi0.github.io/projects/viewpoint/): 국회의원, 법안, 정당과 위원회 정보를 차트와 지도로 탐색하는 웹 서비스입니다. 의정 활동과 표결 데이터를 시각화해 필요한 정보를 쉽게 살펴볼 수 있도록 구성했습니다. 담당 역할: PM, 기획, 프론트엔드 개발. 사용 기술: React, TypeScript, Zustand, SCSS, D3.js, Figma.
 - [goodJob](https://carcassi0.github.io/projects/goodjob/): PDF 이력서를 분석해 맞춤 채용 공고와 AI 피드백을 제공하는 구직 플랫폼입니다. 공고 탐색, 북마크, 지원 현황 관리를 하나의 흐름으로 연결했습니다. 담당 역할: 프론트엔드 개발 · UI/UX. 사용 기술: React, TypeScript, Zustand, SCSS.
-- [DTx](https://carcassi0.github.io/projects/dtx/): 아주대학교의료원에서 진행 중인 프로젝트입니다. 프로젝트 기획과 프론트엔드, 백엔드 개발을 함께 담당하고 있습니다. 담당 역할: 프로젝트 기획 · 프론트엔드 개발 · 백엔드 개발. 사용 기술: React, NestJS, TypeScript, SCSS, react-query, PostgreSQL, Redis, AWS, Figma.
+- [DTx](https://carcassi0.github.io/projects/dtx/): 아주대학교의료원에서 진행 중인 프로젝트입니다. 프로젝트 기획과 프론트엔드, 백엔드 개발을 함께 담당하고 있습니다. 담당 역할: 프로젝트 기획 · 프론트엔드 개발 · 백엔드 개발. 사용 기술: React, NestJS, TypeScript, Zustand, SCSS, react-query, PostgreSQL, Redis, AWS, Figma.
 
 ## 질문과 답변
 ### 어떤 프로젝트에 참여했나요?
